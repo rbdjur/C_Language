@@ -1,0 +1,7 @@
+This is the reverse.txt file.
+
+Here is filler text for the file so the exercise can be demonstrated to the fullest capabalities. Today is Tuesday.  The weather is cloudy and the forecast for the rest of the week is cloudy and cold. 
+
+There has been discussions of cold weather and how it has impacted other parts of the country.  For example, the frigid temperatures in Chicago allowed an individual to throw water in the air and have the air turn to ice.
+
+Above is just an example of many instances of extreme weather conditions.
